@@ -31,6 +31,8 @@ src/
 │   ├── resources/
 │   │   └── application.properties
 └── pom.xml
+
+
 4. Descripción de Componentes
 4.1. Modelo - Cliente.java
 La clase Cliente representa la entidad Cliente, que será mapeada a la tabla de la base de datos. Esta clase tiene los campos necesarios para almacenar la información del cliente, y se usa junto con JPA para persistir los datos.
